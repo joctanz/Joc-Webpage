@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab');
+
+div.capitals{
+	color: white;
+	background-color: black;
+	margin: 20px 20px 20px 20px;
+	padding: 10px;
+	border: 5px solid black;
+	border-radius: 10px;
+	font-family: "Zilla Slab";
+}
+
+#special{
+	background-color: red;
+}
+
+#special2{
+	background-color: blue;
+}
+
+h1{
+	color:black;
+}
+
+body{
+/*	background-image: url("http://2wixx71erohn2ixvfu42jxuw.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/shutterstock_167435168-1000x641.jpg");*/
+	background-color: linen;
+	background-attachment: fixed;
+	width: 500px;
+}
+
+#t01{
+	border: 5px solid black;
+	background-color: beige;
+	width: 200px;
+	margin-left: 20px;
+
+}
+
+th{
+	background-color: black;
+	color:white;
+}
+
+th, td{
+	padding: 15px;
+}
+
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+
+
